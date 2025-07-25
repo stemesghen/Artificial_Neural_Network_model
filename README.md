@@ -1,4 +1,4 @@
-# Homework 5: Design Matrix and Surrogate Modeling with Polynomial Regression
+#  Design Matrix and Surrogate Modeling with Polynomial Regression
 
 This project focuses on constructing surrogate models using polynomial regression techniques. The code demonstrates how to build a design matrix for polynomial basis functions and apply regression modeling to approximate a target function.
 
